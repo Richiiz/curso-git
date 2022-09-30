@@ -5,3 +5,6 @@ el tiene 34 años y nacio en mexico
 el cual viajo por todo el mundo con sus amigos
 
 les cuento su grandiosa historia
+
+el es un chico medio alto pero guaperron.
+(se agrega con commit sin mensaje para ver el editor de textos)
