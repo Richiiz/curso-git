@@ -1,10 +1,7 @@
 esta es la historia de richi
 
-el tiene 34 años y nacio en mexico
+el tiene 23 años y nacio en mexico
 
-el cual viajo por todo el mundo con sus amigos
+el cual viajo por todo el mundo :D
 
 les cuento su grandiosa historia
-
-el es un chico medio alto pero guaperron.
-(se agrega con commit sin mensaje para ver el editor de textos de la terminal)
